@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS & DevOps
 - 📫 How to reach me 7875255254/ gatesachin1112@gmail.com
 - 😄 Pronouns: Sachin
-- ⚡ Fun fact: I'm a Developer
+- ⚡ Fun fact: I'm a Developer :)
 
 <!---
 gatesachin1/gatesachin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
