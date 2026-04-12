@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sachin-portfolio.onrender.com" target="_blank">
+  <a href="https://gatesachin1.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
