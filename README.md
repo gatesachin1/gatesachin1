@@ -21,9 +21,9 @@
 | [terraform-aws-modules](https://github.com/gatesachin1/terraform-aws-modules) | Reusable Terraform AWS modules |
 | [high-availability-one-tier-aws-terraform-jenkins](https://github.com/gatesachin1/high-availability-one-tier-aws-terraform-jenkins) | High-Availability one-tier AWS architecture with Terraform & Jenkins |
 | [two-tier-architecture-aws-using-terraform](https://github.com/gatesachin1/two-tier-architecture-aws-using-terraform) | Two-tier AWS architecture using Terraform |
-| [Static-Website-Hosting-Using-Terraform](https://github.com/gatesachin1/Static-Website-Hosting-Using-terraform-s3-static-website) | Static website hosting on S3 using Terraform |
-| [terraform-project](https://github.com/gatesachin1/terraform-ec2-codebuild-cicd) | EC2 provisioning and CodeBuild CI pipeline for Terraform |
-| [Terraform](https://github.com/gatesachin1/terraform-s3-static-website) | Terraform learning and experiments |
+| [Static-Website-Hosting-Using-Terraform](https://github.com/gatesachin1/Static-Website-Hosting-Using-Terraform) | Static website hosting on S3 using Terraform |
+| [terraform-s3-static-website](https://github.com/gatesachin1/terraform-s3-static-website) | Terraform S3 static website hosting |
+| [terraform-ec2-codebuild-cicd](https://github.com/gatesachin1/terraform-ec2-codebuild-cicd) | EC2 provisioning and CodeBuild CI pipeline for Terraform |
 
 ---
 
@@ -32,11 +32,11 @@
 | Repository | Description |
 |---|---|
 | [CICD---Github-CodePipeline-CodeDeploy-EC2](https://github.com/gatesachin1/CICD---Github-CodePipeline-CodeDeploy-EC2) | CI/CD pipeline using GitHub, CodePipeline & CodeDeploy on EC2 |
-| [GitHub-Actions](https://github.com/gatesachin1/nodejs-ci-github-actions) | Node.js CI build pipeline using GitHub Actions |
+| [nodejs-ci-github-actions](https://github.com/gatesachin1/nodejs-ci-github-actions) | Node.js CI build pipeline using GitHub Actions |
 | [CodeDeploy-Deployment-EC2](https://github.com/gatesachin1/CodeDeploy-Deployment-EC2) | Web page deployment on Windows EC2 via CodeDeploy |
-| [CICD-Project-](https://github.com/gatesachin1/java-maven-webapp-docker-cicd) | Java Maven web app with Docker CI/CD |
-| [Docker-Projects](https://github.com/gatesachin1/apache-website-docker) | Apache web server hosting a website template in Docker |
-| [Scripts](https://github.com/gatesachin1/linux-monitoring-bash-scripts) | CPU, memory, load and uptime monitoring bash scripts |
+| [java-maven-webapp-docker-cicd](https://github.com/gatesachin1/java-maven-webapp-docker-cicd) | Java Maven web app with Docker CI/CD |
+| [apache-website-docker](https://github.com/gatesachin1/apache-website-docker) | Apache web server hosting a website template in Docker |
+| [linux-monitoring-bash-scripts](https://github.com/gatesachin1/linux-monitoring-bash-scripts) | CPU, memory, load and uptime monitoring bash scripts |
 
 ---
 
@@ -49,7 +49,7 @@
 | [Web-deployment-on-AWS-EC2-using-Apache-HTTPD](https://github.com/gatesachin1/Web-deployment-on-AWS-EC2-using-Apache-HTTPD) | Web deployment on AWS EC2 using Apache HTTPD |
 | [Jewellery-Website](https://github.com/gatesachin1/Jewellery-Website) | Jewellery e-commerce website |
 | [National-Ticket-Booking-Portal-](https://github.com/gatesachin1/National-Ticket-Booking-Portal-) | National ticket booking portal |
-| [Simple-Maven-Project](https://github.com/gatesachin1/java-maven-webapp) | Java Maven web application with Docker |
+| [java-maven-webapp](https://github.com/gatesachin1/java-maven-webapp) | Java Maven web application with Docker |
 | [Sachin-s-Like-Proposal](https://github.com/gatesachin1/Sachin-s-Like-Proposal) | Fun web project |
 
 ---
