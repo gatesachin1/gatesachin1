@@ -64,6 +64,7 @@
 | [Sachin-portfolio-website](https://github.com/gatesachin1/Sachin-portfolio-website) | Personal portfolio website deployed on Render |
 | [Sachin-Gate-Portfolio-Web](https://github.com/gatesachin1/Sachin-Gate-Portfolio-Web) | Personal portfolio website built with HTML and CSS |
 | [Web-deployment-on-AWS-EC2-using-Apache-HTTPD](https://github.com/gatesachin1/Web-deployment-on-AWS-EC2-using-Apache-HTTPD) | Web deployment on AWS EC2 using Apache HTTPD |
+| [event-finder-app](https://github.com/gatesachin1/event-finder-app) | React + FastAPI event recommendation app for Pune |
 | [Jewellery-Website](https://github.com/gatesachin1/Jewellery-Website) | Jewellery e-commerce static website |
 | [National-Ticket-Booking-Portal-](https://github.com/gatesachin1/National-Ticket-Booking-Portal-) | National ticket booking portal |
 | [java-maven-webapp](https://github.com/gatesachin1/java-maven-webapp) | Java Maven web application with Docker |
