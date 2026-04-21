@@ -33,6 +33,7 @@
 
 | Repository | Description |
 |---|---|
+| [aws-cost-reporter](https://github.com/gatesachin1/aws-cost-reporter) | AWS Lambda weekly cost reporter — posts Slack summary every Monday via EventBridge & Terraform |
 | [aws-EKS-cluster-setup-terraform](https://github.com/gatesachin1/aws-EKS-cluster-setup-terraform) | EKS cluster setup using modular Terraform |
 | [aws-ecs-ecommerce-terraform](https://github.com/gatesachin1/aws-ecs-ecommerce-terraform) | E-Commerce web app deployment on ECS with Terraform |
 | [terraform-aws-modules](https://github.com/gatesachin1/terraform-aws-modules) | Reusable Terraform AWS modules |
