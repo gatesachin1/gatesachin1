@@ -70,6 +70,7 @@
 | [National-Ticket-Booking-Portal-](https://github.com/gatesachin1/National-Ticket-Booking-Portal-) | National ticket booking portal |
 | [java-maven-webapp](https://github.com/gatesachin1/java-maven-webapp) | Java Maven web application with Docker |
 | [Sachin-s-Like-Proposal](https://github.com/gatesachin1/Sachin-s-Like-Proposal) | Fun web project |
+| [sachin-gate-biodata](https://github.com/gatesachin1/sachin-gate-biodata) | Hindu marriage biodata portfolio — bilingual (English/Marathi), photo gallery, deployed on GitHub Pages · [View Live](https://gatesachin1.github.io/sachin-gate-biodata/) |
 
 ---
 
