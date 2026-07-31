@@ -33,6 +33,7 @@
 
 | Repository | Description |
 |---|---|
+| [AWS-Self-Service-EC2-Portal](https://github.com/gatesachin1/AWS-Self-Service-EC2-Portal) | Production-ready self-service portal for 20 AWS services — React + Lambda (Python 3.13) + API Gateway + S3/CloudFront, fully deployed via Terraform |
 | [aws-cost-reporter](https://github.com/gatesachin1/aws-cost-reporter) | AWS Lambda weekly cost reporter — posts Slack summary every Monday via EventBridge & Terraform |
 | [aws-EKS-cluster-setup-terraform](https://github.com/gatesachin1/aws-EKS-cluster-setup-terraform) | EKS cluster setup using modular Terraform |
 | [aws-ecs-ecommerce-terraform](https://github.com/gatesachin1/aws-ecs-ecommerce-terraform) | E-Commerce web app deployment on ECS with Terraform |
@@ -42,6 +43,16 @@
 | [Static-Website-Hosting-Using-Terraform](https://github.com/gatesachin1/Static-Website-Hosting-Using-Terraform) | Static website hosting on S3 using Terraform |
 | [terraform-s3-static-website](https://github.com/gatesachin1/terraform-s3-static-website) | S3 static website hosting using Terraform |
 | [terraform-ec2-codebuild-cicd](https://github.com/gatesachin1/terraform-ec2-codebuild-cicd) | EC2 provisioning and CodeBuild CI pipeline with Terraform |
+
+---
+
+## ☸️ Kubernetes
+
+| Repository | Description |
+|---|---|
+| [kubernetes-project-shopk8s](https://github.com/gatesachin1/kubernetes-project-shopk8s) | End-to-end Kubernetes project — microservices shop app deployed on K8s |
+| [Kubernetes-Learning](https://github.com/gatesachin1/Kubernetes-Learning) | Hands-on Kubernetes learning — Pods, Deployments, Services & Ingress on AWS EC2 |
+| [aws-eks-pipeline](https://github.com/gatesachin1/aws-eks-pipeline) | CI/CD pipeline for deploying applications to AWS EKS |
 
 ---
 
@@ -58,16 +69,18 @@
 
 ---
 
-## 🌐 Web Deployment / Projects
+## 🌐 Web / Projects
 
 | Repository | Description |
 |---|---|
+| [gatesachin1.github.io](https://github.com/gatesachin1/gatesachin1.github.io) | Personal DevOps & Cloud Engineering portfolio — [View Live](https://gatesachin1.github.io) |
+| [CloudNest-Technology-Solutions](https://github.com/gatesachin1/CloudNest-Technology-Solutions) | CloudNest Technology Solutions company website |
+| [event-finder-app](https://github.com/gatesachin1/event-finder-app) | React + FastAPI event recommendation app for Pune |
 | [Sachin-portfolio-website](https://github.com/gatesachin1/Sachin-portfolio-website) | Personal portfolio website deployed on Render |
 | [Sachin-Gate-Portfolio-Web](https://github.com/gatesachin1/Sachin-Gate-Portfolio-Web) | Personal portfolio website built with HTML and CSS |
 | [Web-deployment-on-AWS-EC2-using-Apache-HTTPD](https://github.com/gatesachin1/Web-deployment-on-AWS-EC2-using-Apache-HTTPD) | Web deployment on AWS EC2 using Apache HTTPD |
-| [event-finder-app](https://github.com/gatesachin1/event-finder-app) | React + FastAPI event recommendation app for Pune |
 | [Jewellery-Website](https://github.com/gatesachin1/Jewellery-Website) | Jewellery e-commerce static website |
-| [National-Ticket-Booking-Portal-](https://github.com/gatesachin1/National-Ticket-Booking-Portal-) | National ticket booking portal |
+| [National-Ticket-Booking-Portal-](https://github.com/gatesachin1/National-Ticket-Booking-Portal-) | National ticket booking portal — Java |
 | [java-maven-webapp](https://github.com/gatesachin1/java-maven-webapp) | Java Maven web application with Docker |
 | [Sachin-s-Like-Proposal](https://github.com/gatesachin1/Sachin-s-Like-Proposal) | Fun web project |
 | [sachin-gate-biodata](https://github.com/gatesachin1/sachin-gate-biodata) | Hindu marriage biodata portfolio — bilingual (English/Marathi), photo gallery, deployed on GitHub Pages · [View Live](https://gatesachin1.github.io/sachin-gate-biodata/) |
@@ -81,6 +94,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
