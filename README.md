@@ -33,6 +33,7 @@
 
 | Repository | Description |
 |---|---|
+| [Terraform-APIGateway-Lambda](https://github.com/gatesachin1/Terraform-APIGateway-Lambda) | HTTP API (API Gateway v2) backed by a Node.js Lambda, fully provisioned with Terraform |
 | [AWS-Self-Service-EC2-Portal](https://github.com/gatesachin1/AWS-Self-Service-EC2-Portal) | Production-ready self-service portal for 20 AWS services — React + Lambda (Python 3.13) + API Gateway + S3/CloudFront, fully deployed via Terraform |
 | [aws-cost-reporter](https://github.com/gatesachin1/aws-cost-reporter) | AWS Lambda weekly cost reporter — posts Slack summary every Monday via EventBridge & Terraform |
 | [aws-EKS-cluster-setup-terraform](https://github.com/gatesachin1/aws-EKS-cluster-setup-terraform) | EKS cluster setup using modular Terraform |
