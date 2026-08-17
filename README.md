@@ -76,7 +76,7 @@
 |---|---|
 | [gatesachin1.github.io](https://github.com/gatesachin1/gatesachin1.github.io) | Personal DevOps & Cloud Engineering portfolio — [View Live](https://gatesachin1.github.io) |
 | [CloudNest-Technology-Solutions](https://github.com/gatesachin1/CloudNest-Technology-Solutions) | CloudNest Technology Solutions company website |
-| [event-finder-app](https://github.com/gatesachin1/event-finder-app) | React + FastAPI event recommendation app for Pune |
+| [event-finder-app](https://github.com/gatesachin1/event-finder-app) | React + FastAPI event finder app for Pune |
 | [Sachin-portfolio-website](https://github.com/gatesachin1/Sachin-portfolio-website) | Personal portfolio website deployed on Render |
 | [Sachin-Gate-Portfolio-Web](https://github.com/gatesachin1/Sachin-Gate-Portfolio-Web) | Personal portfolio website built with HTML and CSS |
 | [Web-deployment-on-AWS-EC2-using-Apache-HTTPD](https://github.com/gatesachin1/Web-deployment-on-AWS-EC2-using-Apache-HTTPD) | Web deployment on AWS EC2 using Apache HTTPD |
